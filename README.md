@@ -1,5 +1,5 @@
 # LosVirtuality.com
-Virtual Reality Gaming Center - VR Arcade | Birthday Party | VR Rental | Team Building | VR Games
+<a href="https://www.losvirtuality.com" target="_blank" >Virtual Reality Gaming Center</a> - VR Arcade | Birthday Party | VR Rental | Team Building | VR Games
 
 Los Virtuality provides private kids' and adults' birthday parties, team buildings, and mobile VR rental for Bar Mitzvah parties, Corporate events, presentations, weddings, and for any other events where you want to impress your guest with a new level of entertainment.
 
@@ -40,3 +40,5 @@ VIRTUAL REALITY IS FIT FOR ANY TYPE OF EVENT:
 • Cocktail Party
 
 Contact our event planner to bring a new level of entertainment to your event! 
+
+https://www.losvirtuality.com
